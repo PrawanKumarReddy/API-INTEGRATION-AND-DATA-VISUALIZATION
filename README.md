@@ -28,3 +28,5 @@ Data Science & Analytics: It can be used as an introductory project for learning
 
 IoT and Smart Devices: This weather data can be integrated into smart home systems or IoT devices that require real-time environmental data for decision-making or automation.
 
+OUT{UT:
+![Image](https://github.com/user-attachments/assets/5e1daf89-85b7-41b8-b749-7f5b2344bb41)
